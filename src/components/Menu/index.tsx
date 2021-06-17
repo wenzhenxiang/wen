@@ -78,7 +78,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/Uniswap/uniswap-interface'
+const CODE_LINK = 'https://github.com/wenzhenxiang/wen'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
